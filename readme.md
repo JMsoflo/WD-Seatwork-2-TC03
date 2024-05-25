@@ -9,11 +9,11 @@
     <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Activities</h3>
+  <h3 align="center">Activity 2</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
- Sana Pumasa sa Subject.
+ 
 </div>
 
 <br />
