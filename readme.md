@@ -111,4 +111,5 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| VS Code How To Link An External CSS File | learning how to link css file | (https://www.youtube.com/watch?v=ZorEtZiXaeU) |
+| VS Code How To Link An External CSS File | learning how to link css file | https://www.youtube.com/watch?v=ZorEtZiXaeU |
+| HTML CSS Resume Beginner Project | learning to make resume html and css style | https://www.youtube.com/watch?v=FHb9JobDs2o |
